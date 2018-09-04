@@ -1,4 +1,5 @@
 # column-generation
 
 This is a simple example for column generation.
-#include Gruobi 650 package
+Please include Gruobi 650 package
+Visual Studio version 2017
